@@ -1,5 +1,3 @@
-#question 19
-
 import random 
  
 def guess_the_number(): 
